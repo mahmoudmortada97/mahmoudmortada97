@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudmortada97" alt="mahmoudmortada97" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mahmoudmorta97" target="blank"><img src="https://img.shields.io/twitter/follow/mahmoudmorta97?logo=twitter&style=for-the-badge" alt="mahmoudmorta97" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mahmoudmorta97" target="_blank"><img src="https://img.shields.io/twitter/follow/mahmoudmorta97?logo=twitter&style=for-the-badge" alt="mahmoudmorta97" /></a> </p>
 
-- 🔭 I’m currently working on [Leave Request using Microsoft Power Platform](https://apps.powerapps.com/play/e/default-5f8d9ded-e3b4-487a-8978-413dc6804a00/a/b04d94c5-3fe6-449c-ba62-18c844b864da?tenantId=5f8d9ded-e3b4-487a-8978-413dc6804a00)
+- 🔭 I’m currently working on <a src="https://apps.powerapps.com/play/e/default-5f8d9ded-e3b4-487a-8978-413dc6804a00/a/b04d94c5-3fe6-449c-ba62-18c844b864da?tenantId=5f8d9ded-e3b4-487a-8978-413dc6804a00" target="_blank">Leave Request using Microsoft Power Platform</a>
 
 - 🌱 I’m currently learning **Front-End Development in Route Academy**
 

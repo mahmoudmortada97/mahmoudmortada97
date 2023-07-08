@@ -4,8 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudmortada97&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudmortada97" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudmortada97" alt="mahmoudmortada97" /></a> </p>
-
+[![](https://raw.githubusercontent.com/mahmoudmortada97/mahmoudmortada97/master/profile-summary-card-output/react/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/mahmoudmortada97/mahmoudmortada97/master/profile-summary-card-output/react/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mahmoudmortada97/mahmoudmortada97/master/profile-summary-card-output/react/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/mahmoudmortada97/mahmoudmortada97/master/profile-summary-card-output/react/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mahmoudmortada97/mahmoudmortada97/master/profile-summary-card-output/react/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <p align="left"> <a href="https://twitter.com/mahmoudmorta97" target="blank"><img src="https://img.shields.io/twitter/follow/mahmoudmorta97?logo=twitter&style=for-the-badge" alt="mahmoudmorta97" /></a> </p>
 
 - 🔭 I’m currently working on [Shipping System Full Stack Project](https://github.com/RizkAhmed/Shipping-System)
@@ -41,6 +42,4 @@
 
 
 
-[![](https://raw.githubusercontent.com/mahmoudmortada97/mahmoudmortada97/master/profile-summary-card-output/react/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/mahmoudmortada97/mahmoudmortada97/master/profile-summary-card-output/react/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mahmoudmortada97/mahmoudmortada97/master/profile-summary-card-output/react/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/mahmoudmortada97/mahmoudmortada97/master/profile-summary-card-output/react/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mahmoudmortada97/mahmoudmortada97/master/profile-summary-card-output/react/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
